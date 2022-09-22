@@ -1,0 +1,1 @@
+kubectl expose pod httpbin --port 80
