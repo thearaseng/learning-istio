@@ -1,0 +1,1 @@
+kubectl delete pa default -n default
